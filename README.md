@@ -19,11 +19,4 @@
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" aling="Center">
 </div>
 
-### Estou começando a estudar/aprofundar:
-<div>
-    <img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" aling="Center"> 
-    <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" aling="Center"> 
-    <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" aling="Center"> 
-</div>
-
 #### Vale resaltar que ainda estou terminando o técnico, ainda tenho muito o que aprender!!
