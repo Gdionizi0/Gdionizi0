@@ -19,4 +19,3 @@
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" aling="Center">
 </div>
 
-#### Vale resaltar que ainda estou terminando o técnico, ainda tenho muito o que aprender!!
