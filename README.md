@@ -1,16 +1,48 @@
-### Olá! Eu sou Gabrielly Dionizio
+# 👋 Olá! Seja bem-vindo(a) ao meu GitHub
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/g.dioniziio_)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielly-dionizio-13155a309/)
+Sou estudante e desenvolvedora em constante aprendizado, com foco em desenvolvimento web e sistemas. Aqui você encontrará projetos acadêmicos, estudos práticos e experimentos que refletem minha evolução técnica e meu interesse por tecnologia.
 
-## Tecnologias que eu uso no meu dia:
+---
 
-<div>
-    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" aling="Center">
-    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" aling="Center">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" aling="Center">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" aling="Center">    
-    <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" aling="Center">
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" aling="Center">
-</div>
+## 🚀 Tecnologias & Ferramentas
+
+### 🖥️ Desenvolvimento Web
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **PHP**
+
+### 🗄️ Banco de Dados
+- **MySQL**
+- **Firebird**
+
+### 🎨 Frameworks & Estilização
+- **Bootstrap**
+- **Tailwind CSS**
+
+### ⚙️ Outras Tecnologias
+- **C#** (conhecimentos básicos)
+- **Design Patterns** (noções e aplicação inicial)
+
+### 📚 Em aprendizado
+- **React** ⚛️
+
+---
+
+## 📌 O que você vai encontrar aqui
+- Projetos acadêmicos e pessoais  
+- Aplicações web simples e funcionais  
+- Estudos sobre lógica de programação e boas práticas  
+- Experimentos com layouts responsivos e integração com banco de dados  
+
+---
+
+## 🎯 Objetivo
+Aprimorar constantemente minhas habilidades em desenvolvimento de sistemas, buscando aplicar boas práticas, escrever código limpo e evoluir tecnicamente para atuar profissionalmente na área de tecnologia.
+
+---
+
+## 📫 Contato
+Fique à vontade para explorar os repositórios e acompanhar minha evolução.  
+Sugestões, feedbacks e conexões são sempre bem-vindos!
 
